@@ -1,0 +1,14 @@
+.panda-card{
+    border:0;
+}
+.panda-card-footer{
+    background:white;
+    border:0;
+}
+.container .single-showcase img{
+    width:100px;
+}
+.panda-slide{
+    background:rgb(245, 228, 231);
+    border-radius:1em;
+}
